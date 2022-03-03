@@ -11,6 +11,14 @@
 # production
 /build
 
+# src folder of tailwind
+/src
+
+# files not needed now
+package-lock.json
+package.json
+planning.txt
+
 # misc
 .DS_Store
 .env.local
