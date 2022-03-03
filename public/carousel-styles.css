@@ -1,0 +1,25 @@
+.carousel-image-buttons-container{
+  min-width: 150px;
+}
+.carousel-image-button{
+  box-shadow: 0 0 7px 1px rgb(34,34,34,0.58);
+  transition: 0.2s all;
+}
+.carousel-image-button:hover{
+  width: 105px;
+  box-shadow: 0 0 10px 1px rgb(34,34,34,0.58);
+}
+
+.carousel-main-image-container{
+  max-width: 1000px;
+  border-radius: 24px;
+}
+.carousel-main-image{
+  box-shadow: 0 0 58px #494949;
+  border-radius: 20px;
+}
+
+/* .active{
+  width: 130px;
+  box-shadow: 0 0 10px 1px rgb(34,34,34,0.58);
+} */

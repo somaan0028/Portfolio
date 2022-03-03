@@ -1,0 +1,20 @@
+Frontend
+---------
+html, css, javascript, react, sass, tailwind, 
+
+
+Backend
+---------
+node, express, socket.io, firebase
+
+
+Databases
+---------
+MongoDB
+Firebase Firestore
+SQL ()
+
+
+Prog. lang.
+------------
+Javascript, Python, C++
