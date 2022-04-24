@@ -131,7 +131,7 @@ body{
     stroke-dashoffset: 1314; */
     stroke-dasharray: 4255.48193359375;
     stroke-dashoffset: 4255.48193359375;
-    animation: sign 4s ease;
+    animation: sign 10s ease;
     animation-fill-mode: forwards;
 }
 .signature-container h1{

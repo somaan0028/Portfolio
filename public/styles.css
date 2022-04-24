@@ -32373,8 +32373,8 @@ body{
     stroke-dashoffset: 1314; */
   stroke-dasharray: 4255.48193359375;
   stroke-dashoffset: 4255.48193359375;
-  -webkit-animation: sign 4s ease;
-          animation: sign 4s ease;
+  -webkit-animation: sign 10s ease;
+          animation: sign 10s ease;
   -webkit-animation-fill-mode: forwards;
           animation-fill-mode: forwards;
 }
